@@ -10,7 +10,7 @@ List the technologies, frameworks, and languages you used to build your portfoli
 - CSS
 - JavaScript
 - React.js
-- Bootstrap (if used)
+- Bootstrap 
 - Any other relevant libraries or tools
 ## Features
 
